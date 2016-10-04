@@ -85,6 +85,6 @@
   7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files of [our class repo] (https://github.com/ga-students/DS-SEA-3).
   ```
   $ grep -irohe "dictionary" . | wc -w
-  86  # This is the number of occurrences of all forms of dictionary
   ```
+  There are 86 occurences of the word *dictionary*.
 8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
